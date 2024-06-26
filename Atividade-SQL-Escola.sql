@@ -12,24 +12,18 @@ CREATE TABLE tb_alunos(
 
 INSERT INTO tb_alunos (nome, idade, periodo, nota)
 VALUES ("Juliana", 15, "manhã", 7.0);
-
 INSERT INTO tb_alunos (nome, idade, periodo, nota)
 VALUES ("Renan", 14, "manhã", 9.0);
 INSERT INTO tb_alunos (nome, idade, periodo, nota)
 VALUES ("Alice", 14, "tarde", 5.0);
-
 INSERT INTO tb_alunos (nome, idade, periodo, nota)
 VALUES ("Joao", 15, "manhã", 3.0);
-
 INSERT INTO tb_alunos (nome, idade, periodo, nota)
 VALUES ("Fabiana", 15, "manhã", 10.0);
-
 INSERT INTO tb_alunos (nome, idade, periodo, nota)
 VALUES ("Thiago", 15, "tarde", 8.0);
-
 INSERT INTO tb_alunos (nome, idade, periodo, nota)
 VALUES ("Maria", 14, "tarde", 10.0);
-
 INSERT INTO tb_alunos (nome, idade, periodo, nota)
 VALUES ("Debora", 15, "tarde", 7.0);
 
